@@ -34,4 +34,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=7hourspg&theme=merko" alt="7hourspg" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=7hourspg&show_icons=true&locale=en&layout=compact&theme=merko" alt="7hourspg" /></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="padding-top: 1rem;" src="https://github-profile-trophy.vercel.app/?username=7hourspg&theme=tokyonight" alt="7hourspg" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="padding-top:80px;" src="https://github-profile-trophy.vercel.app/?username=7hourspg&theme=tokyonight" alt="7hourspg" /></a> </p>
