@@ -36,4 +36,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/?trk=sem-ga_campid%3d14650114791_asid%3d127961666580_crid%3d601257986851_kw%3dlinkedin_d%3dc_tid%3dkwd-285981853_n%3dg_mt%3dp_geo%3d1007749_slid%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/?trk=sem-ga_campid%3d14650114791_asid%3d127961666580_crid%3d601257986851_kw%3dlinkedin_d%3dc_tid%3dkwd-285981853_n%3dg_mt%3dp_geo%3d1007749_slid%3d" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="padding-top:80px;" src="https://github-profile-trophy.vercel.app/?username=7hourspg&&theme=rogue" alt="7hourspg" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="padding-top:80px;" src="https://github-profile-trophy.vercel.app/?username=7hourspg&theme=tokyonight" alt="7hourspg" /></a> </p>
