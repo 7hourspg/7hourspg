@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif)](https://portfoli123.netlify.app/)
+[![MasterHead]align="center" (https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif)](https://portfoli123.netlify.app/)
 <h1 align="center">Hi 👋, I'm Rajiv</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <!-- <img align="center" alt="Coding" width="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5e0aa6a6-1889-4ff3-8223-50275c288d0f/dc3x8rj-8941eb25-a80b-47c8-beb2-2152965e190e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVlMGFhNmE2LTE4ODktNGZmMy04MjIzLTUwMjc1YzI4OGQwZlwvZGMzeDhyai04OTQxZWIyNS1hODBiLTQ3YzgtYmViMi0yMTUyOTY1ZTE5MGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7NrEaV6lZLbG8okjQzfYlBP71M07_AtrzP2KuDpMLi0"> -->
