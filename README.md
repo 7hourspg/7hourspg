@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7hourspg&show_icons=true&locale=en" alt="7hourspg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7hourspg&" alt="7hourspg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7hourspg&theme=tokyo-night" alt="7hourspg" /></p>
