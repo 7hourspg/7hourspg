@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=7hourspg&label=Profile%20views&color=0e75b6&style=flat" alt="7hourspg" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7hourspg&theme=merko" alt="7hourspg" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7hourspg&theme=tokyonight" alt="7hourspg" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfoli123.netlify.app/](https://portfoli123.netlify.app/)
 
