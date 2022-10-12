@@ -28,8 +28,8 @@
 
 [![7HOURS's github activity graph](https://activity-graph.herokuapp.com/graph?username=7hourspg&theme=merko)](https://github.com/7hourspg/github-readme-activity-graph)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=7hourspg&show_icons=true&locale=en&layout=compact" alt="7hourspg" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=7hourspg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="7hourspg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7hourspg&show_icons=true&locale=en" alt="7hourspg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7hourspg&show_icons=true&locale=en&theme=tokyonight" alt="7hourspg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7hourspg&theme=tokyonight" alt="7hourspg" /></p>
