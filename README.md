@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **rajiv840704@gmail.com**
 
-- 📄 Know about my experiences [https://portfoli123.netlify.app/](https://portfoli123.netlify.app/)
+- 📄 Know about my experiences [https://7hourspg.vercel.app](https://7hourspg.vercel.app)
 
 - ⚡ Fun fact **I think I am funny**
 
