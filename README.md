@@ -21,7 +21,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://portfoli123.netlify.app/](https://portfoli123.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://7hourspg.vercel.app/](https://7hourspg.vercel.app)
 
 - 💬 Ask me about **react ,Javascript,HTML and Css**
 
