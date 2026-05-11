@@ -103,13 +103,11 @@ Also shipping: [`nextjs-modal-route`](https://github.com/7hourspg/nextjs-modal-r
 
 #### Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7hourspg/7hourspg/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7hourspg/7hourspg/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/7hourspg/7hourspg/output/github-snake.svg" />
-</picture>
-
 <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=7hourspg&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=1E3A8A" />
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=7hourspg&theme=onedark&no-bg=true&no-frame=true&column=7&margin-w=4&margin-h=4" />
+</a>
 
 #### GitHub
 
