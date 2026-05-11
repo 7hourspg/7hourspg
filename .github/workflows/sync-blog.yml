@@ -1,0 +1,59 @@
+name: Sync blog posts from llms.txt
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync latest posts
+        run: |
+          python3 <<'PY'
+          import urllib.request, re, pathlib
+
+          src = urllib.request.urlopen(
+              "https://7hourspg.vercel.app/llms.txt"
+          ).read().decode()
+
+          m = re.search(r"^## Blog\n(.*?)(?=^## )", src, re.DOTALL | re.MULTILINE)
+          if not m:
+              raise SystemExit("blog section not found in llms.txt")
+
+          entries = [line for line in m.group(1).splitlines() if line.startswith("- [")][:5]
+          entries = [re.sub(r"\):.*$", ")", e) for e in entries]
+          new_block = "\n".join(entries)
+
+          readme = pathlib.Path("README.md")
+          text = readme.read_text()
+          updated = re.sub(
+              r"(<!-- BLOG-POST-LIST:START -->).*?(<!-- BLOG-POST-LIST:END -->)",
+              f"\\1\n\n{new_block}\n\n\\2",
+              text,
+              flags=re.DOTALL,
+          )
+
+          if updated == text:
+              print("No changes.")
+          else:
+              readme.write_text(updated)
+              print("README updated.")
+          PY
+
+      - name: Commit if changed
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: sync latest blog posts from llms.txt"
+            git push
+          else
+            echo "No README changes to commit."
+          fi
