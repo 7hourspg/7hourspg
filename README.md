@@ -23,7 +23,7 @@ var me = Developer{
     Stack: []string{"Go", "TypeScript", "Next.js", "React Native", "Expo", "PostgreSQL", "TanStack Start", "TanStack Router", "TanStack AI"},
     Tools: []string{"Tailwind", "Shadcn/UI", "TanStack Query", "Zustand", "Redis", "Docker", "Wails"},
     Building: []string{
-        "notanumber.in — notes on frontend engineering",
+        "notanumber.in — notes on programming",
     },
     Writing:  "https://notanumber.in",
     Learning: []string{"Go", "React Native", "Expo", "TanStack Start", "TanStack Router", "TanStack AI"},
@@ -33,7 +33,7 @@ var me = Developer{
 #### Currently
 
 - 🧠 **Learning** — TanStack Start · TanStack Router · TanStack AI · deeper Go
-- 📝 **Writing** — frontend deep-dives at [notanumber.in](https://notanumber.in)
+- 📝 **Writing** — programming deep-dives at [notanumber.in](https://notanumber.in)
 - 📍 **Based** — New Delhi, India
 
 #### Tech
@@ -64,6 +64,8 @@ var me = Developer{
 
 | Project | What |
 | --- | --- |
+| [**open-prose**](https://github.com/7hourspg/open-prose) | Small native app for writing your blog and shipping it as your own static site |
+| [**tanstart-shop**](https://github.com/7hourspg/tanstart-shop) | Full-stack e-commerce on TanStack Start + Bun + Postgres — storefront, checkout, admin, blog, streaming AI assistant |
 | [**fakestoreapi.in**](https://github.com/7hourspg/Fake-Store-Api) | Open e-commerce REST API used in tutorials & prototypes · ~15k MAU |
 | [**go-react-native-ecommerce**](https://github.com/7hourspg/go-react-native-ecommerce) | Full-stack mobile commerce: Go/Gin API + Expo client |
 | [**cliphis**](https://github.com/7hourspg/cliphis) | Lightweight macOS clipboard history manager in Go |
